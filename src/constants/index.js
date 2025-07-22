@@ -39,6 +39,30 @@ export const servicesData = [
     ],
   },
   {
+    title: "Programming Languages",
+    description:
+      "I can work with a variety of programming languages ",
+    items: [
+      {
+        title: "JavaScript",
+        description: "React, Next.js, Node.js, TypeScript",
+      },
+      {
+        title: "Python",
+        description: "Streamlit, LangChain",
+      },
+      {
+        title: "C/C++",
+        description: "For Data Structures and Arudino Programming",
+      },
+      {
+        title: "Java",
+        description: "Data Structures",
+      },
+
+    ],
+  },
+  {
     title: "Deployment",
     description:
       "I can deploy apps on various platforms, ensuring they are secure, scalable, and performant. ",
